@@ -34,7 +34,7 @@
 - **Link**: [Repositório no GitHub](https://github.com/victtor01/simple-api-spring)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ts,java,spring,tailwind,postgres,linux,vercel,idea" width="350" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,java,spring,nextjs,tailwind,postgres,idea" width="350" />
   </a>
 </p>
 
@@ -44,16 +44,16 @@
 - **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,net,cs,ts,tailwind,postgres,linux,vercel,rider" width="350" />
+    <img src="https://skillicons.dev/icons?i=docker,net,cs,ts,tailwind,postgres,linux,rider" width="350" />
   </a>
 </p>
 
-### [Simples SaaS para anotações ](https://github.com/victtor01/PointSale)
+### [Simples SaaS para anotações ](https://github.com/victtor01/cards)
 - **Descrição**: Crie pastas com arquivos, personalize do seu jeito e tenha um calendário semanal para ajudar a organizar-se
 - **Tecnologias**: Node.js, Typescript, , Next.js, TailwindCSS, Vitest, Express, PostgreSQL.
-- **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
+- **Link**: [Repositório no GitHub](https://github.com/victtor01/cards)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ts,nodejs,tailwind,vscode,vitest,express,next,postgres" width="350" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,nodejs,tailwind,vitest,express,next,postgres" width="350" />
   </a>
 </p>
