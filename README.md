@@ -17,7 +17,7 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="tailWind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <br/>
@@ -25,7 +25,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victtor01&hide_progress=true&theme=dark)
 
 ### Principais Projetos
-#### Simples API usando Spring Boot com Next.js e TailwindCSS
-<a href="URL_DO_LINK">
-  <img src="cell.gif" alt="Descrição do GIF" width="200">
-</a>
+
+### [Simples API usando Spring Boot com Next.js e TailwindCSS](https://github.com/victtor01/simple-api-spring)
+- **Descrição**: Uma API RESTful desenvolvida com Spring Boot, integrada a um frontend moderno usando Next.js e estilizado com TailwindCSS.
+- **Tecnologias**: Java, Spring Boot, Next.js, TailwindCSS, MySQL.
+- **Link**: [Repositório no GitHub](https://github.com/victtor01/simple-api-spring)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,java,spring,ts,tailwind,linux,vercel,idea" width="350" />
+  </a>
+</p>
+
+### [Controle de Pedidos Local (PointSale)](https://github.com/victtor01/PointSale)
+- **Descrição**: Um sistema de controle de pedidos local desenvolvido para gerenciar vendas, estoque e relatórios em tempo real.
+- **Tecnologias**: C#, ASP.NET, Next.js, TailwindCSS, Ferramentas de Testes (ex: xUnit).
+- **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,net,cs,ts,tailwind,linux,vercel,rider" width="350" />
+  </a>
+</p>
