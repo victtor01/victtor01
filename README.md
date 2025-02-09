@@ -2,6 +2,8 @@
 
 ### Sobre mim
 
+#### Tenho 4 anos de experiência em desenvolvimento de software, e sempre estou buscando inovar e crescer profissionalmente. Tenho experiência em C#, Node.js e Java, com tecnologias como Docker, Vitest, XUnit, MsTest, Java, Spring Boot, CI, Next.js, TailWindCSS, Metodologias Ágeis e entre outros.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorrdev/)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victtor01&show_icons=true&theme=dark)
@@ -38,7 +40,7 @@
 
 ### [Controle de Pedidos Local (PointSale)](https://github.com/victtor01/PointSale)
 - **Descrição**: Um sistema de controle de pedidos local desenvolvido para gerenciar vendas, estoque e relatórios em tempo real.
-- **Tecnologias**: C#, ASP.NET, Next.js, TailwindCSS, Xunit, PostgreSQL.
+- **Tecnologias**: C#, ASP.NET, Next.js, TailwindCSS, MSTest, PostgreSQL.
 - **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
 <p align="left">
   <a href="https://skillicons.dev">
