@@ -1,5 +1,9 @@
 ## Olá, Meu nome é José Victor e sou desenvolvedor de software 🚀👋
 
+### Sobre mim
+
+#### Tenho 4 anos de experiência em desenvolvimento de software, e sempre estou buscando inovar e crescer profissionalmente. Tenho experiência em C#, Node.js e Java, com tecnologias como Docker, Vitest, XUnit, MsTest, Java, Spring Boot, CI, Next.js, TailWindCSS, Metodologias Ágeis e entre outros.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorrdev/)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victtor01&show_icons=true&theme=dark)
@@ -26,20 +30,30 @@
 
 ### [Simples API usando Spring Boot com Next.js e TailwindCSS](https://github.com/victtor01/simple-api-spring)
 - **Descrição**: Uma API RESTful desenvolvida com Spring Boot, integrada a um frontend moderno usando Next.js e estilizado com TailwindCSS.
-- **Tecnologias**: Java, Spring Boot, Next.js, TailwindCSS, MySQL.
+- **Tecnologias**: Java, Spring Boot, Next.js, TailwindCSS, PostgreSQL.
 - **Link**: [Repositório no GitHub](https://github.com/victtor01/simple-api-spring)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,spring,ts,tailwind,linux,vercel,idea" width="350" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,java,spring,tailwind,postgres,linux,vercel,idea" width="350" />
   </a>
 </p>
 
 ### [Controle de Pedidos Local (PointSale)](https://github.com/victtor01/PointSale)
 - **Descrição**: Um sistema de controle de pedidos local desenvolvido para gerenciar vendas, estoque e relatórios em tempo real.
-- **Tecnologias**: C#, ASP.NET, Next.js, TailwindCSS, Ferramentas de Testes (ex: xUnit).
+- **Tecnologias**: C#, ASP.NET, Next.js, TailwindCSS, MSTest, PostgreSQL.
 - **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,net,cs,ts,tailwind,linux,vercel,rider" width="350" />
+    <img src="https://skillicons.dev/icons?i=docker,net,cs,ts,tailwind,postgres,linux,vercel,rider" width="350" />
+  </a>
+</p>
+
+### [Simples SaaS para anotações ](https://github.com/victtor01/PointSale)
+- **Descrição**: Crie pastas com arquivos, personalize do seu jeito e tenha um calendário semanal para ajudar a organizar-se
+- **Tecnologias**: Node.js, Typescript, , Next.js, TailwindCSS, Vitest, Express, PostgreSQL.
+- **Link**: [Repositório no GitHub](https://github.com/victtor01/PointSale)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,ts,nodejs,tailwind,vscode,vitest,express,next,postgres" width="350" />
   </a>
 </p>
